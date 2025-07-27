@@ -39,6 +39,18 @@ A web-based task tracking and project management platform designed to simplify t
 
 ---
 ## Screenshots
+### Admin Home
 ![Admin Home](./frontend/src/assets/ss1.png)
+### Admin Dashboard
+![Admin Dashboard](./frontend/src/assets/ss2.png)
+### Member Home
+![Member Home](./frontend/src/assets/ss3.png)
+### Member Dashboard
+![Member Dashboard](./frontend/src/assets/ss4.png)
+### Manage Roles
+![Manage Roles](./frontend/src/assets/ss5.png)
+### AI Assistant
+![Chatbot](./frontend/src/assets/ss6.png)
+
 
 
