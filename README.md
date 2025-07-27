@@ -1,6 +1,6 @@
 # Project Task Tracker - Planora
 
-A web-based task tracking and project management platform designed to simplify team collaboration and streamline productivity. Built with the MERN stack, Palnora allows team members and project managers to organize tasks efficiently and communicate effectively.
+A web-based task tracking and project management platform designed to simplify team collaboration and streamline productivity. Built with the MERN stack, Planora allows team members and project managers to organize tasks efficiently and communicate effectively.
 
 ---
 
