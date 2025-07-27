@@ -17,18 +17,18 @@ A web-based task tracking and project management platform designed to simplify t
 
 ## Features
 
-### 👨‍💻 Member Dashboard
+###  Member Dashboard
 - View assigned tasks and progress.
 - Add comments and mark tasks complete.
 - Task calendar integration.
 
-### 🧑‍🏫 Project Manager Dashboard
+### Project Manager Dashboard
 - Create and manage multiple projects.
 - Assign and monitor team tasks.
 - Promote users to project manager.
 - View project progress via visual charts.
 
-### 🔍 General Features
+### General Features
 - Modern dark-themed UI.
 - Role-based login system.
 - Real-time chatbot assistant.
