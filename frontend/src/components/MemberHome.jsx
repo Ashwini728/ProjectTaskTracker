@@ -63,7 +63,7 @@ const MemberHome = ({ userId }) => {
 
   return (
     <div className="container position-relative" style={{background:'transparent'}}>
-      <h3 className="text-center mb-3">👋 Welcome, {user.name || 'Team Member'}!</h3>
+      <h3 className="text-center mb-3"> Welcome, {user.name || 'Team Member'}!</h3>
       <p className="text-center text-muted">{today}</p>
 
       {/* Task Summary */}

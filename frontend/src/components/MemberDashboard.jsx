@@ -7,7 +7,7 @@ import ChatWidget from './ChatWidget'; // ✅ Import ChatWidget
 const MemberDashboard = ({ userId }) => {
   return (
     <div className="container mt-4" style={{ backgroundColor: 'transparent' }}>
-     <h3 className="text-center text-white mb-4">👨‍💻 Team Member Dashboard</h3>
+     <h3 className="text-center text-white mb-4">Team Member Dashboard</h3>
 
 
       <div className="mb-5">
