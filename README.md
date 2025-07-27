@@ -1,12 +1,43 @@
-# React + Vite
+# Project Task Tracker - Planora
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based task tracking and project management platform designed to simplify team collaboration and streamline productivity. Built with the MERN stack, Palnora allows team members and project managers to organize tasks efficiently and communicate effectively.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React.js, Bootstrap, Framer Motion
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT
+- **Chatbot:** Integrated with Gemini
+- **Calendar & Charts:** FullCalendar, Chart.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+### 👨‍💻 Member Dashboard
+- View assigned tasks and progress.
+- Add comments and mark tasks complete.
+- Task calendar integration.
+
+### 🧑‍🏫 Project Manager Dashboard
+- Create and manage multiple projects.
+- Assign and monitor team tasks.
+- Promote users to project manager.
+- View project progress via visual charts.
+
+### 🔍 General Features
+- Modern dark-themed UI.
+- Role-based login system.
+- Real-time chatbot assistant.
+- Task progress visualization (Pie Chart).
+- Project-wise task list & team view.
+- Notifications and alerts.
+- Search functionality.
+
+---
+## Screenshots
+
+
