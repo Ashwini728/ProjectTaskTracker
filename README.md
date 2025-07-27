@@ -39,5 +39,6 @@ A web-based task tracking and project management platform designed to simplify t
 
 ---
 ## Screenshots
+![Admin Home](./assets/ss1.png)
 
 
