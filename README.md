@@ -2,10 +2,6 @@
 
 A web-based task tracking and project management platform designed to simplify team collaboration and streamline productivity. Built with the MERN stack, Palnora allows team members and project managers to organize tasks efficiently and communicate effectively.
 
-## Live Demo
-
-> _Add your deployment link here if hosted on platforms like Render, Vercel, or Netlify._
-
 ---
 
 ##  Tech Stack
@@ -42,6 +38,6 @@ A web-based task tracking and project management platform designed to simplify t
 - Search functionality.
 
 ---
-
+## Screenshots
 
 
